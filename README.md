@@ -11,7 +11,6 @@
 </div>
 
 <br/>
-# 💫 About Me:
 🔭 I’m currently working on<br>Building projects with React, TypeScript, and modern web technologies.<br><br>👯 I’m looking to collaborate on<br>Open-source and web development projects.<br><br>🤝 I’m looking for help with<br>Improving my React, TypeScript, and full-stack development skills.<br><br>🌱 I’m currently learning<br>React, TypeScript, JavaScript, OOP, and modern web development.<br><br>💬 Ask me about<br>JavaScript, TypeScript, React, and web development.
 
 
