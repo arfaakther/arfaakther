@@ -1,4 +1,4 @@
-<img src="./banner/github_banner.png" alt="Hello world">
+<img src="./ChatGPT Image Sep 3, 2026, 05_43_25 PM.png" alt="Hello world">
 
 <br/>
 
