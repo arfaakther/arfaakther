@@ -5,14 +5,14 @@
 <!--- title --->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Touhidur Zaman</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Arfa Akther</h1></summary>
     <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Technical+Instructor+@PH;Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Bioinformatics" alt="Typing SVG" /></a>
   </ul>
 </div>
 
 <br/>
-- 👋 Hi, I’m **[@arfaakther]([https://github.com/arfaakther])**
+- 👋 Hi, I’m Arfa Akther
+ <br/> 
 # 💫 About Me:
 🔭 I’m currently working on<br>Building projects with React, TypeScript, and modern web technologies.<br><br>👯 I’m looking to collaborate on<br>Open-source and web development projects.<br><br>🤝 I’m looking for help with<br>Improving my React, TypeScript, and full-stack development skills.<br><br>🌱 I’m currently learning<br>React, TypeScript, JavaScript, OOP, and modern web development.<br><br>💬 Ask me about<br>JavaScript, TypeScript, React, and web development.
 
